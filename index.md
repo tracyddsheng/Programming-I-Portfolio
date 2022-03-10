@@ -1,4 +1,4 @@
-# Tracy Sheng's Programming Portfolio 21-22
+# Tracy Sheng's Programming Portfolio: 2021-2022
 Computer programming 1, focus on Processing and C++.
 
 Projects include:
