@@ -7,6 +7,7 @@ Projects include:
 Digital calculator using classes and math functions
 
 [Source Code](https://github.com/tracyddsheng/Programming-Portfolio-21-22/blob/gh-pages/src/Calculator.zip)
+![Image](https://github.com/tracyddsheng/Programming-Portfolio-21-22/blob/gh-pages/images/Calculator.png)
 
 ## Space Game
 Object-oriented solution to a space shooter game
