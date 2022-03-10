@@ -3,9 +3,9 @@ Computer programming 1, focus on Processing and C++.
 
 Projects include:
 
-##Calculator
+## Calculator
 Digital calculator using classes and math functions
 
-##Space Game
+## Space Game
 Object-oriented solution to a space shooter game
 [Source Code](https://github.com/tracyddsheng/Programming-Portfolio-21-22/blob/gh-pages/SpaceGame.zip)
