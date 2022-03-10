@@ -8,4 +8,4 @@ Digital calculator using classes and math functions
 
 ## Space Game
 Object-oriented solution to a space shooter game
-[Source Code](https://github.com/tracyddsheng/Programming-Portfolio-21-22/blob/gh-pages/SpaceGame.zip)
+[Source Code](https://github.com/tracyddsheng/Programming-Portfolio-21-22/blob/gh-pages/src/SpaceGame.zip)
