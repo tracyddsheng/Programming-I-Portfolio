@@ -21,9 +21,12 @@ Object-oriented solution to a space shooter game
 
 [Source Code](https://github.com/tracyddsheng/Programming-Portfolio-21-22/blob/gh-pages/src/SpaceGame.zip)
 
-![Image](https://github.com/tracyddsheng/Programming-Portfolio-21-22/blob/gh-pages/images/SpaceGame.png "SpaceGame")
+![Image](https://github.com/tracyddsheng/Programming-Portfolio-21-22/blob/gh-pages/images/SpaceGame.png)
 
 ## Screensaver
+[Source Code](https://github.com/tracyddsheng/Programming-I-Portfolio/blob/gh-pages/src/screensaver.zip)
+
+![Image](https://github.com/tracyddsheng/Programming-I-Portfolio/blob/gh-pages/images/screensaver.png)
 
 ## Etch-a-Sketch
 
