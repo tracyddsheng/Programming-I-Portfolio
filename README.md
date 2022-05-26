@@ -7,6 +7,8 @@ Computer programming 1, focus on Processing and C++.
 
 Projects include:
 
+## Minesweeper
+
 ## Calculator
 Digital calculator using classes and math functions
 
@@ -20,3 +22,9 @@ Object-oriented solution to a space shooter game
 [Source Code](https://github.com/tracyddsheng/Programming-Portfolio-21-22/blob/gh-pages/src/SpaceGame.zip)
 
 ![Image](https://github.com/tracyddsheng/Programming-Portfolio-21-22/blob/gh-pages/images/SpaceGame.png "SpaceGame")
+
+## Screensaver
+
+## Etch-a-Sketch
+
+## Timeline
