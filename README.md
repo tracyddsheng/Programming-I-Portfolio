@@ -33,4 +33,8 @@ Basic screensaver with classes
 ## Conversion
 Calculate squares and roots of a draggable number x
 
+[Source Code](https://github.com/tracyddsheng/Programming-I-Portfolio/blob/gh-pages/src/conversion.zip)
+
+![Image](https://github.com/tracyddsheng/Programming-I-Portfolio/blob/gh-pages/images/conversion.png)
+
 ## Timeline
