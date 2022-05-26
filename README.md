@@ -2,10 +2,8 @@
 Computer programming 1, focus on Processing and C++.
 
 [Contact](mailto:tracy.ddsheng@gmail.com)
-<pre>
-
-
-</pre>
+ 
+ 
 
 Projects include:
 
