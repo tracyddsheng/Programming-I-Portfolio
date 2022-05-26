@@ -5,7 +5,7 @@ Computer programming 1, focus on Processing and C++.
 <pre>
 
 
-<pre>
+</pre>
 
 Projects include:
 
