@@ -24,6 +24,7 @@ Object-oriented solution to a space shooter game
 ![Image](https://github.com/tracyddsheng/Programming-Portfolio-21-22/blob/gh-pages/images/SpaceGame.png)
 
 ## Screensaver
+Basic screensaver with classes
 [Source Code](https://github.com/tracyddsheng/Programming-I-Portfolio/blob/gh-pages/src/screensaver.zip)
 
 ![Image](https://github.com/tracyddsheng/Programming-I-Portfolio/blob/gh-pages/images/screensaver.png)
