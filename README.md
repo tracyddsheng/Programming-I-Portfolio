@@ -1,5 +1,5 @@
 # Tracy Sheng's Programming Portfolio: 2021-2022
-Computer programming 1, focus on Processing and C++.
+Computer programming 1, focus on and certified in Processing and C++
 
 [Contact](mailto:tracy.ddsheng@gmail.com)
 
