@@ -9,6 +9,7 @@ Projects include:
 
 ## Minesweeper
 Classic singleplayer puzzle game
+
 [Source Code](https://github.com/tracyddsheng/Programming-Portfolio-21-22/blob/gh-pages/src/Minesweeper.zip)
 
 ![Image](https://github.com/tracyddsheng/Programming-Portfolio-21-22/blob/gh-pages/images/minesweeper.jpg)
