@@ -43,3 +43,8 @@ Calculate squares and roots of a draggable number x
 ![Image](https://github.com/tracyddsheng/Programming-I-Portfolio/blob/gh-pages/images/conversion.png)
 
 ## Timeline
+Informational timeline with mouse mechanics
+
+[Source Code](https://github.com/tracyddsheng/Programming-Portfolio-21-22/blob/gh-pages/src/timeline.zip)
+
+![Image](https://github.com/tracyddsheng/Programming-Portfolio-21-22/blob/gh-pages/images/timeline.jpg)
