@@ -8,6 +8,10 @@ Computer programming 1, focus on Processing and C++.
 Projects include:
 
 ## Minesweeper
+Classic singleplayer puzzle game
+[Source Code](https://github.com/tracyddsheng/Programming-Portfolio-21-22/blob/gh-pages/src/Minesweeper.zip)
+
+![Image](https://github.com/tracyddsheng/Programming-Portfolio-21-22/blob/gh-pages/images/minesweeper.jpg)
 
 ## Calculator
 Digital calculator using classes and math functions
